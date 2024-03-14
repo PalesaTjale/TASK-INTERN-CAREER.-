@@ -1,4 +1,4 @@
-This repository contains a Jupyter Notebook (Task_2.ipynb) that explores and classifies the Breast Cancer Wisconsin (Diagnostic) dataset. The task is to predict whether a breast mass is malignant or benign based on features extracted from mammogram images.
+This repository contains a Notebook that explores and classifies the Breast Cancer Wisconsin (Diagnostic) dataset. The task is to predict whether a breast mass is malignant or benign based on features extracted from mammogram images.
 
 Goals:
 
